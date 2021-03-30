@@ -1,2 +1,2 @@
 # c-sharp-calculator
-poject sprint 3
+project sprint 3
